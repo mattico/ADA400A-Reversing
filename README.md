@@ -1,6 +1,6 @@
 # Tektronix ADA400A Reverse Engineering
 
-![reverse engineering in progress](Images/ada400a_top_annotated.jpg)
+![schematic](Images/ADA400A.svg)
 
 Almost complete, almost correct schematics for the Tektronix ADA400A Differential Preamplifier.
 Reverse engineered from [photos on xDevs.com](https://xdevs.com/fix/ada400a/).
